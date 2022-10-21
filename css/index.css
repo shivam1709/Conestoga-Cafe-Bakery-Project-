@@ -1,3 +1,44 @@
+p{
+    text-align: center;
+    font-size: 18px;
+    font-weight: bold;
+}
+.clgName{
+    margin-top: 10px ;
+    display: inline-block; 
+    position:relative;
+    text-align: center;
+    border: 2px solid black;
+    width: 350px;
+    height: 70px;
+    padding-bottom: 20px;
+    margin-left: 500px;
+}
+.outerDiv{
+    margin-top: 10px;
+    border: 2px solid black;
+}
+.mainDiv1{
+    
+    display: inline-block;
+    
+}
+.mainDiv2{
+    padding-top: 25px;
+    display: inline-block;
+    
+}
+button{
+    margin-left: 550px;
+    text-align: center;
+    margin-top: 25px;
+    font-size: 18px;
+    color: white;
+    background-color: black;
+    width: 250px;
+    height: 50px;
+}
+
 /* Parent Container */
 .content_img{
     position: relative;
@@ -5,6 +46,7 @@
     height: 200px;
     float: left;
     margin-right: 10px;
+    margin-left: 50px;
 }
 
 /* Child Text Container */
