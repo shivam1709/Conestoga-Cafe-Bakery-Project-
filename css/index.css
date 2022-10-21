@@ -4,19 +4,20 @@ p{
     font-weight: bold;
 }
 .clgName{
+    margin: auto;
     margin-top: 10px ;
-    display: inline-block; 
-    position:relative;
     text-align: center;
     border: 2px solid black;
     width: 350px;
     height: 70px;
     padding-bottom: 20px;
-    margin-left: 500px;
 }
 .outerDiv{
+    margin: auto;
+    text-align: center;
     margin-top: 10px;
     border: 2px solid black;
+    width: 1150px;
    
 }
 .mainDiv1{
@@ -34,7 +35,7 @@ p{
     
 }
 button{
-    margin-left: 550px;
+    margin: auto;
     text-align: center;
     margin-top: 25px;
     font-size: 18px;
@@ -54,10 +55,9 @@ button:hover{
     height: 200px;
     float: left;
     margin-right: 10px;
-    margin-left: 50px;
+    margin-left: 10px;
 }
 
-/* Child Text Container */
 .content_img div{
     position: absolute;
     bottom: 0;
@@ -72,7 +72,6 @@ button:hover{
     transition: visibility 0s, opacity 0.5s linear;
 }
 
-/* Hover on Parent Container */
 .content_img:hover{
     cursor: pointer;
 }    
