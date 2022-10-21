@@ -17,15 +17,20 @@ p{
 .outerDiv{
     margin-top: 10px;
     border: 2px solid black;
+   
 }
 .mainDiv1{
+    float: left;
     padding-top: 10px;
-    display: inline-block;
+    display: block;
+    width: auto;
     
 }
 .mainDiv2{
+    float: left;
     padding-top: 25px;
-    display: inline-block;
+    display: block;
+    width: auto;
     
 }
 button{
