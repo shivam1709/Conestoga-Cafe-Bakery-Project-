@@ -46,4 +46,5 @@ To experience the Conestoga Cafe Bakery Project, follow these simple steps:
 2. **Nutritional Information:** Hover your cursor over a bakery item to instantly see its calorie count and fat percentage.
 
 3. **Place an Order:** Select your desired bakery items and use the provided order form to place an order.
-![image](https://github.com/shivam1709/midterm7529/assets/68727150/363c3f16-4f29-49a7-a12f-a2fd6f04476e)
+![Screenshot (307)](https://github.com/shivam1709/Conestoga-Cafe-Bakery-Project-/assets/68727150/84a1a4da-e89f-48ae-a290-7166bf1a59c1)
+
